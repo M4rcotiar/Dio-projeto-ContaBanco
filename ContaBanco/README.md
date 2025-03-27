@@ -1,18 +1,28 @@
-## Getting Started
+# 🚀 Getting Started - Conta Banco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao projeto **Conta Banco**! Este guia ajudará você a configurar e rodar seu código Java no **Visual Studio Code**.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📁 Estrutura do Projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O workspace contém os seguintes diretórios:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **`src/`** → Pasta para armazenar os arquivos-fonte Java.  
+- **`lib/`** → Pasta para dependências externas.  
+- **`bin/`** → Pasta onde os arquivos compilados serão gerados automaticamente.  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Se precisar personalizar essa estrutura, edite o arquivo `.vscode/settings.json`.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Configuração no VS Code
+
+### 1️⃣ **Instale as Extensões Necessárias**
+- **Java Extension Pack** (Microsoft) → Para suporte completo ao Java no VS Code.
+
+### 2️⃣ **Configure o Ambiente**
+- Instale o **JDK** (se ainda não tiver).
+- Certifique-se de que o Java está instalado corretamente:
+  ```sh
+  java -version
