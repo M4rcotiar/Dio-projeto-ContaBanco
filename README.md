@@ -3,7 +3,7 @@
 Este é um projeto simples em **Java** que simula a criação de uma conta bancária pelo terminal, pedindo informações ao usuário e exibindo uma mensagem formatada com os dados fornecidos.
 
 ## 🚀 Tecnologias Utilizadas
-- Java 11+ 
+- Visual Studio Code
 - Scanner para entrada de dados pelo terminal
 
 ## 📌 Funcionalidades
